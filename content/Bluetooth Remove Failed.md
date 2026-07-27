@@ -1,1 +1,0 @@
-Go to Device Manager, view hidden devices, and uninstall them
