@@ -341,3 +341,9 @@ Done rebuilding in 2s
 [404] /pasted-image-20260402042442.png
 [200] /archive/bluetooth-remove-failed
 [200] /archive/website/
+Detected change, rebuilding...
+Parsing input files using 1 threads
+Parsed 14 Markdown files in 171ms
+Filtered out 0 files in 14μs
+Emitted 51 files to `public` in 2s
+Done rebuilding in 2s
