@@ -145,3 +145,199 @@ hint: exit with ctrl+c
 [200] /postscript.js
 [200] /static/contentIndex.json
 [200] /static/icon.png
+
+ Quartz v5.0.0  
+
+Cleaned output directory `public` in 12ms
+Found 14 input files from `content` in 24ms
+Parsing input files using 1 threads
+Parsed 14 Markdown files in 294ms
+Filtered out 0 files in 124μs
+Emitting files
+Emitted 88 files to `public` in 2s
+Done processing 14 files in 3s
+Started a Quartz server listening at http://localhost:8081
+hint: exit with ctrl+c
+[404] /
+[200] /static/icon.png
+[404] /
+[200] /static/icon.png
+[404] /
+[200] /static/icon.png
+[404] /
+[404] /
+[404] /
+[404] /
+[404] /
+[404] /
+[404] /
+Detected change, rebuilding...
+Parsing input files using 1 threads
+Parsed 1 Markdown files in 10ms
+Filtered out 0 files in 23μs
+Emitted 9 files to `public` in 124ms
+Done rebuilding in 124ms
+
+ Quartz v5.0.0  
+
+Cleaned output directory `public` in 12ms
+Found 15 input files from `content` in 23ms
+Parsing input files using 1 threads
+Parsed 15 Markdown files in 310ms
+Filtered out 0 files in 84μs
+Emitting files
+Emitted 90 files to `public` in 2s
+Done processing 15 files in 3s
+Started a Quartz server listening at http://localhost:8081
+hint: exit with ctrl+c
+[200] /
+[200] /static/icon.png
+[200] /
+[200] /static/icon.png
+[200] /
+[200] /
+[200] /
+[200] /
+[200] /index.css
+[200] /component-735924e0.css
+[200] /component-589c1cea.css
+[200] /component-2911f5d1.css
+[200] /component-8a06014f.css
+[200] /component-6ee21cee.css
+[200] /component-53b25b2b.css
+[200] /component-bbc3f7c0.css
+[200] /component-e427079e.css
+[200] /component-c93c6a44.css
+[200] /component-34bdfded.css
+[200] /component-77d6a441.css
+[200] /component-788c9ca3.css
+[200] /component-642859cd.css
+[200] /component-1ea6ad18.css
+[200] /component-58d5ff56.css
+[200] /component-274a3dfe.css
+[200] /component-94cb6c84.css
+[200] /component-4abc06bd.css
+[200] /component-7262b5a7.css
+[200] /static/resource-style-a5c806d2.css
+[200] /static/resource-style-6bd36952.css
+[200] /static/resource-style-9857b007.css
+[200] /static/resource-style-d3a1a224.css
+[200] /prescript.js
+[200] /static/resource-after-e13fffa1.js
+[200] /static/resource-after-8b336f9a.js
+[200] /static/resource-after-baba652b.js
+[200] /postscript.js
+[200] /static/resource-after-5eb75950.js
+[200] /static/resource-after-683f275d.js
+[200] /static/contentIndex.json
+[200] /static/icon.png
+[200] /amd-interview-prep
+[404] /pasted-image-20260402005339.png
+[404] /pasted-image-20260402005408.png
+[404] /pasted-image-20260402005428.png
+[404] /pasted-image-20260402010045.png
+[404] /pasted-image-20260402042442.png
+[200] /bluetooth-remove-failed
+[200] /desktop-pcb-fab
+[200] /editing-star-photography
+[200] /environment-variable-list
+[200] /libncurses-for-stm32cubeide
+[200] /openwebui
+[200] /remote-hung-up-unexpectedly
+[200] /stm8
+[200] /suspend-issue
+[200] /tesla-interview-prep
+[200] /uploading-to-de1soc
+[404] /pasted-image-20260402005339.png
+[404] /pasted-image-20260402005408.png
+[404] /pasted-image-20260402005428.png
+[404] /pasted-image-20260402010045.png
+[404] /pasted-image-20260402042442.png
+Detected change, rebuilding...
+Parsing input files using 1 threads
+Parsed 0 Markdown files in 692μs
+Filtered out 0 files in 34μs
+Emitted 6 files to `public` in 30ms
+Done rebuilding in 30ms
+Detected change, rebuilding...
+Parsing input files using 1 threads
+
+Warning: content/archive/AMD Interview Prep.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/archive/Editing Star photography.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/archive/Bluetooth Remove Failed.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/archive/Environment Variable List.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/archive/Desktop PCB Fab.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/archive/OpenWebUI.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/archive/STM8.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/archive/Suspend issue.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/archive/libncurses for STM32CubeIDE.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/archive/Tesla Interview Prep.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/archive/Remote hung up unexpectedly.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/archive/Website/Adding Simulink to ROS2.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/archive/Uploading to DE1SoC.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/archive/Website/FPGA Jannat.md isn't yet tracked by git, dates will be inaccurate
+Parsed 14 Markdown files in 185ms
+Filtered out 0 files in 13μs
+Emitted 50 files to `public` in 2s
+Done rebuilding in 2s
+[200] /amd-interview-prep
+[200] /component-2911f5d1.css
+[200] /index.css
+[200] /component-735924e0.css
+[200] /component-589c1cea.css
+[200] /component-53b25b2b.css
+[200] /component-c93c6a44.css
+[200] /component-bbc3f7c0.css
+[200] /component-e427079e.css
+[200] /component-8a06014f.css
+[200] /component-6ee21cee.css
+[200] /component-77d6a441.css
+[200] /component-1ea6ad18.css
+[200] /component-34bdfded.css
+[200] /component-788c9ca3.css
+[200] /component-94cb6c84.css
+[200] /component-58d5ff56.css
+[200] /component-274a3dfe.css
+[200] /component-642859cd.css
+[200] /component-4abc06bd.css
+[200] /component-7262b5a7.css
+[200] /static/resource-style-a5c806d2.css
+[200] /static/resource-style-6bd36952.css
+[200] /static/resource-style-9857b007.css
+[200] /static/resource-style-d3a1a224.css
+[200] /prescript.js
+[200] /postscript.js
+[200] /static/resource-after-5eb75950.js
+[404] /pasted-image-20260402005339.png
+[404] /pasted-image-20260402005408.png
+[404] /pasted-image-20260402005428.png
+[404] /pasted-image-20260402010045.png
+[200] /static/contentIndex.json
+[404] /pasted-image-20260402042442.png
+[200] /static/resource-after-e13fffa1.js
+[200] /static/resource-after-baba652b.js
+[200] /static/resource-after-8b336f9a.js
+[200] /static/resource-after-683f275d.js
+[200] /static/icon.png
+[200] /archive/
+[200] /archive/amd-interview-prep
+[404] /pasted-image-20260402005339.png
+[404] /pasted-image-20260402005408.png
+[404] /pasted-image-20260402005428.png
+[404] /pasted-image-20260402010045.png
+[404] /pasted-image-20260402042442.png
+[200] /archive/bluetooth-remove-failed
+[200] /archive/website/
